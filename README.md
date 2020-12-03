@@ -1,5 +1,5 @@
 # html_practice
-<!doctype html>
+<!DOCTYPE html>
 <html>
 <head>
 <title> My web page</title>
